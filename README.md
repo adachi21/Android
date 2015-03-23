@@ -1,4 +1,5 @@
 # Android
 안드로이드
 
-public class Android
+이곳은 안드로이드 코드를 설명하는 곳입니다.
+
